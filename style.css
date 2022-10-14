@@ -74,7 +74,7 @@ body{
 #clavier > input{
     height: 60px;
     width: 60px;
-    font-family: "Pixel";
+    font-family: "DogicaPixelRegular";
     font-size: 20px;
     text-align: center;
     background-color: transparent;
@@ -83,7 +83,7 @@ body{
 
 .restartBtn{
     border-style: dashed;
-    font-family: "Pixel";
+    font-family: "DogicaPixelRegular";
     font-size: 20px;
     height: 40px;
     background-color: transparent;
