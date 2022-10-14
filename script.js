@@ -104,7 +104,7 @@ function remplissageProgressif(){
         if(coeur == nbViesMax){
             clearInterval(remplirCoeur);
         }
-    },300)
+    },150)
 }
 
 // INFO : Supprimer tout les enfants d'un element
