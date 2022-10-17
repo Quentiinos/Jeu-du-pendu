@@ -67,6 +67,7 @@ function checkIfExist(){
         }
         if(motCache == mot){
             gagne();
+            nbErreur = nbViesMax;
         }
     }else{
         nbErreur--;
